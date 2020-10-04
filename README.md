@@ -1,3 +1,3 @@
 # DatabaseMahasiswaPWSmt5
+A simple Web App that uses PHP to manage a simple database.
 
-# A simple web app that uses PHP to manage a database.
